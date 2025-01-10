@@ -212,15 +212,15 @@ describe('table operation', () => {
     expect(payload.name).toBe('updated_table_with_native_types')
   })
 
-  it.skip('should alter the column data types of updated_table_with_native_types', async () => {
+  it.todo('should alter the column data types of updated_table_with_native_types', async () => {
 
   })
 
-  it.skip('should alter the column constraint of updated_table_with_native_types', async () => {
+  it.todo('should alter the column constraint of updated_table_with_native_types', async () => {
 
   })
 
-  it.skip('should alter the foreign key of sample_post to author_table', async () => {
+  it.todo('should alter the foreign key of sample_post to author_table', async () => {
 
   })
 
